@@ -2,7 +2,7 @@ package Devtik;
 
 import java.util.Scanner;
 
-public class BetweenTwoSets {
+public class    BetweenTwoSets {
     public static void main(String[] args) {
         Scanner get = new Scanner(System.in);
         int largestNumber = -1;
